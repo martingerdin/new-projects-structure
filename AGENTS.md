@@ -48,6 +48,21 @@ Remove a folder's `.gitkeep` file once the folder has real content.
 
 Follow the "Working practices" section of `README.md`: keep raw data unchanged in approved storage, never commit sensitive data or credentials, use descriptive filenames, and keep the project tracked in version control.
 
+### 5. Keep the README description focused on purpose and methods
+
+The Description section of `README.md` states the study's purpose and methods — design, participants, data collection, and analysis. It must not report findings, themes, or conclusions. Record those in `doc/notebook.qmd` or the manuscript instead.
+
+### 6. Keep the README and notebook entries very short
+
+- Keep the README Description to a few sentences and avoid detail that belongs in the notebook or manuscript.
+- Keep each `doc/notebook.qmd` log entry to at most one sentence per dated item.
+- Keep the most recent entry on top. Add each new dated entry above the older ones.
+- Favour trimming over expanding. Retain only what a reader needs to get oriented.
+
+### 7. Never use semicolons to split sentences
+
+Do not use semicolons to join or split sentences in any prose written for this project (README, notebook, manuscript, and abstract text). Split them into separate sentences, or restructure the clause, instead.
+
 ## Setting up a new project
 
 Complete these steps in order:
