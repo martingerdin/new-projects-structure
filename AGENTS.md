@@ -63,6 +63,10 @@ The Description section of `README.md` states the study's purpose and methods â€
 
 Do not use semicolons to join or split sentences in any prose written for this project (README, notebook, manuscript, and abstract text). Split them into separate sentences, or restructure the clause, instead.
 
+### 8. Avoid AI tells when writing prose
+
+When writing or revising prose for this project, check the wording against https://claudisms.ai/ and remove phrases and patterns that signal AI authorship.
+
 ## Setting up a new project
 
 Complete these steps in order:
